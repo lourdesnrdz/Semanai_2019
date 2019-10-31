@@ -12,6 +12,7 @@ const Home = () => (
     </Head>
     <div>
       <header>
+        <br></br>
         <h1>Bienvenido!</h1>
       </header>
     </div>
